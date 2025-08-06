@@ -15,3 +15,9 @@ int main() {
     return 0;
 
 }
+/*OUTPUT 
+Enter 5 integers:  11 08 06 24 05
+Sum of array elements: 54
+Average of array elements: 10.8
+*/
+
