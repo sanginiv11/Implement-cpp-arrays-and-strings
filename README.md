@@ -1,6 +1,5 @@
 # Implement-cpp-arrays-and-strings
-01.
-AIM : PRINTING ARRAY ELEMEMTS
+01.AIM : PRINTING ARRAY ELEMEMTS
 
 THEORY :
 - Arrays store multiple elements of the same data type in contiguous memory locations, enabling efficient data management.
@@ -22,8 +21,7 @@ ALGORITHM:
 11. Print a newline to end the output line.
 12. End the program.
 
-02.
-AIM : TO FIND NUMBER IN A GIVEN ARRAY
+02.AIM : TO FIND NUMBER IN A GIVEN ARRAY
 
 THEORY :
 - The purpose of this program is to search for a specific number within the elements of an array.
@@ -48,8 +46,7 @@ ALGORITHM:
    - Otherwise, print "num is not present in the array."
 11. End the program.
 
-03.
-AIM : SUM AND AVERAGE OF ARRAY ELEMENTS
+03.AIM : SUM AND AVERAGE OF ARRAY ELEMENTS
 
 THEORY:
 - The program computes the total (sum) of all elements stored in an array.
@@ -70,8 +67,7 @@ ALGORITHM:
 9. Print the average of the array elements.
 10. End the program.
 
-04.
-AIM: TO FIND MINIMUM AND MAXIMUM NUMBER
+04.AIM: TO FIND MINIMUM AND MAXIMUM NUMBER
 
 THEORY:
 - The program identifies the largest (maximum) and smallest (minimum) numbers stored in an array.
@@ -99,8 +95,7 @@ ALGORITHM:
 15. Print the value of min as the minimum element.
 16. End the program.
 
-05.
-AIM : DIFFERENT WAYS TO DECLARE AND INITIALISE A STRING
+05.AIM : DIFFERENT WAYS TO DECLARE AND INITIALISE A STRING
 
 THEORY: 
 - The program shows four ways to declare and display strings in C++.
@@ -123,8 +118,7 @@ ALGORITHM:
 10. Print the contents of d (std::string object).
 11. End the program.
 
-06.
-AIM : CONCATENATION OF STRINGS
+06.AIM : CONCATENATION OF STRINGS
 
 THEORY: 
 - The program combines two or more strings into a single continuous string.
@@ -145,8 +139,7 @@ ALGORITHM:
 8. Display the concatenated string with an appropriate message.
 9. End the program.
 
-07.
-AIM : PRINTING STRING IN REVERSE
+07.AIM : PRINTING STRING IN REVERSE
 
 THEORY : 
 - The program displays the characters of a given string in reverse order.
@@ -166,8 +159,7 @@ ALGORITHM:
 8. Print a newline after the loop to move to the next line.
 9. End the program.
 
-08.
-AIM : PALINDROME CHECKING
+08.AIM : PALINDROME CHECKING
 
 THEORY:
 - The program verifies if a given string or number reads the same forwards and backwards, i.e., it is a palindrome.
