@@ -23,4 +23,10 @@ int main() {
         cout << num << " is not present in the array." << endl;
 
     return 0;
+
 }
+/* OUTPUT
+Enter 5 integers: 11 02 26 04 05
+Enter number to search: 20
+20 is not present in the array.
+    */
